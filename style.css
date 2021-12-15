@@ -1,0 +1,64 @@
+body {
+  background-color: #D2FD9F;
+}
+
+h1 {
+  text-align: center;
+  color: #3B6003;
+  font-size: 40px;
+  font-family: monospace, sans-serif;
+}
+
+.infoheader {
+  font-style: italic;
+    color: #3B6003;
+}
+
+.javaheader {
+  font-style: italic;
+    color: #3B6003;
+}
+
+.jcccfall {
+    color: #57881C;
+}
+
+.pjheader {
+  font-style: italic;
+    color: #3B6003;
+}
+
+.pjworkdates {
+    color: #57881C;
+}
+
+.header {
+  background-color: #AEE76A;
+  border: 2px dashed #8FCA48;
+}
+
+.footer {
+  background-color: #AEE76A;
+}
+
+.infobody {
+  margin-left: 10px;
+  border-bottom: 1px solid #8FCA48
+}
+
+.jccclearn {
+  margin: 10px;
+}
+
+.footer {
+  padding-left: 18px;
+}
+
+img {
+  width: 60%;
+  border: 3px solid #AEE76A;
+}
+
+body {
+  font-family: monospace;
+}
